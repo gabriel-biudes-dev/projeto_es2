@@ -100,6 +100,32 @@
                     </a>
                 </div>
             </div>
+            <div class="row justify-content-md-center">
+                <div class="col-lg-2 text-center">
+                    <a href="consultarFornecedor.php">
+                        <div id="opt">
+                            <img src="assets/images/do-utilizador.png" class="img-fluid">
+                            <p>Consultar Fornecedores</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-2 text-center">
+                    <a href="registrarVenda.php">
+                        <div id="opt">
+                            <img src="assets/images/do-utilizador.png" class="img-fluid">
+                            <p>Registrar Venda</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-2 text-center">
+                    <a href="registrarCompra.php">
+                        <div id="opt">
+                            <img src="assets/images/do-utilizador.png" class="img-fluid">
+                            <p>Registrar Compra</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
         </div>
     </body>
 </html>
