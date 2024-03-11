@@ -58,10 +58,10 @@
                     </a>
                 </div>
                 <div class="col-lg-2 text-center">
-                    <a href="consultarVendas.php">
+                    <a href="cadastroTime.php">
                         <div id="opt">
                             <img src="assets/images/do-utilizador.png" class="img-fluid">
-                            <p>Consultar Vendas</p>
+                            <p>Cadastrar Time</p>
                         </div>
                     </a>
                 </div>
@@ -69,7 +69,7 @@
                     <a href="consultarProdutos.php">
                         <div id="opt">
                             <img src="assets/images/do-utilizador.png" class="img-fluid">
-                            <p>Consultar Produtos</p>
+                            <p>Remover Time</p>
                         </div>
                     </a>
                 </div>
@@ -79,7 +79,7 @@
                     <a href="consultarFornecedor.php">
                         <div id="opt">
                             <img src="assets/images/do-utilizador.png" class="img-fluid">
-                            <p>Consultar Fornecedores</p>
+                            <p>Consultar Time</p>
                         </div>
                     </a>
                 </div>
@@ -87,7 +87,7 @@
                     <a href="registrarVenda.php">
                         <div id="opt">
                             <img src="assets/images/do-utilizador.png" class="img-fluid">
-                            <p>Registrar Venda</p>
+                            <p>Alterar Time</p>
                         </div>
                     </a>
                 </div>
@@ -95,7 +95,7 @@
                     <a href="registrarCompra.php">
                         <div id="opt">
                             <img src="assets/images/do-utilizador.png" class="img-fluid">
-                            <p>Registrar Compra</p>
+                            <p>Cadastrar Projeto</p>
                         </div>
                     </a>
                 </div>
@@ -105,7 +105,7 @@
                     <a href="consultarFornecedor.php">
                         <div id="opt">
                             <img src="assets/images/do-utilizador.png" class="img-fluid">
-                            <p>Consultar Fornecedores</p>
+                            <p>Remover Projeto</p>
                         </div>
                     </a>
                 </div>
@@ -113,7 +113,7 @@
                     <a href="registrarVenda.php">
                         <div id="opt">
                             <img src="assets/images/do-utilizador.png" class="img-fluid">
-                            <p>Registrar Venda</p>
+                            <p>Consultar Projeto</p>
                         </div>
                     </a>
                 </div>
@@ -121,7 +121,7 @@
                     <a href="registrarCompra.php">
                         <div id="opt">
                             <img src="assets/images/do-utilizador.png" class="img-fluid">
-                            <p>Registrar Compra</p>
+                            <p>Alterar Projeto</p>
                         </div>
                     </a>
                 </div>

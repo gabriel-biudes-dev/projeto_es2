@@ -29,7 +29,7 @@
                 <div class="col-lg-4">
                     <!-- Chamada de serviço -->
                     <form id="form" method="POST" action="backend/cadastrarProfissionalB.php">
-                        <h1 style="border-bottom:1px solid black; padding-bottom:5px; text-align:center">Cadastro de Cliente</h1>
+                        <h1 style="border-bottom:1px solid black; padding-bottom:5px; text-align:center">Cadastro de Profissional</h1>
                         <div class="form-group">
                             <label for="nome">Nome</label>
                             <input type="text" name="nome" class="form-control" id="nome" placeholder="Informe o nome" required>
