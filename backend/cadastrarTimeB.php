@@ -12,7 +12,7 @@ $link = new mysqli('localhost', $config['username'], $config['password'], $confi
 
 //Cadastrando o time
 $query = "INSERT INTO equipe(nome) ";
-    $query = $query . "VALUES('" . $pnome . "')";
+    $query = $query . "VALUES('" . $nome . "')";
     $link->query($query);
     echo "Cadastrado com sucesso";
 mysqli_close($link);

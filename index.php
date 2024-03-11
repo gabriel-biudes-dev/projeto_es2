@@ -66,7 +66,7 @@
                     </a>
                 </div>
                 <div class="col-lg-2 text-center">
-                    <a href="consultarProdutos.php">
+                    <a href="removerTime.php">
                         <div id="opt">
                             <img src="assets/images/do-utilizador.png" class="img-fluid">
                             <p>Remover Time</p>
@@ -76,7 +76,7 @@
             </div>
             <div class="row justify-content-md-center">
                 <div class="col-lg-2 text-center">
-                    <a href="consultarFornecedor.php">
+                    <a href="consultarTime.php">
                         <div id="opt">
                             <img src="assets/images/do-utilizador.png" class="img-fluid">
                             <p>Consultar Time</p>
@@ -84,7 +84,7 @@
                     </a>
                 </div>
                 <div class="col-lg-2 text-center">
-                    <a href="registrarVenda.php">
+                    <a href="alterarTime.php">
                         <div id="opt">
                             <img src="assets/images/do-utilizador.png" class="img-fluid">
                             <p>Alterar Time</p>
@@ -92,7 +92,7 @@
                     </a>
                 </div>
                 <div class="col-lg-2 text-center">
-                    <a href="registrarCompra.php">
+                    <a href="cadastroProjeto.php">
                         <div id="opt">
                             <img src="assets/images/do-utilizador.png" class="img-fluid">
                             <p>Cadastrar Projeto</p>
@@ -102,7 +102,7 @@
             </div>
             <div class="row justify-content-md-center">
                 <div class="col-lg-2 text-center">
-                    <a href="consultarFornecedor.php">
+                    <a href="removerProjeto.php">
                         <div id="opt">
                             <img src="assets/images/do-utilizador.png" class="img-fluid">
                             <p>Remover Projeto</p>
@@ -110,7 +110,7 @@
                     </a>
                 </div>
                 <div class="col-lg-2 text-center">
-                    <a href="registrarVenda.php">
+                    <a href="consultarProjeto.php">
                         <div id="opt">
                             <img src="assets/images/do-utilizador.png" class="img-fluid">
                             <p>Consultar Projeto</p>
@@ -118,7 +118,7 @@
                     </a>
                 </div>
                 <div class="col-lg-2 text-center">
-                    <a href="registrarCompra.php">
+                    <a href="alterarProjeto.php">
                         <div id="opt">
                             <img src="assets/images/do-utilizador.png" class="img-fluid">
                             <p>Alterar Projeto</p>
