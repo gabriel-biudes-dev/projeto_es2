@@ -13,7 +13,7 @@
             <div class="container-fluid">
               <ul class="navbar-nav">
                 <li class="nav-item">
-                    <h3 id="menu">Controle de Estoque</h3>
+                    <h3 id="menu">Cadastro de Projetos</h3>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="index.php">Página Principal</a>
@@ -24,36 +24,36 @@
         <div class="container-fluid">
             <div class="row justify-content-md-center">
                 <div class="col-lg-2 text-center">
-                    <a href="cadastroCliente.php">
+                    <a href="cadastroProfissional.php">
                         <div id="opt">
                             <img src="assets/images/do-utilizador.png" class="img-fluid">
-                            <p>Cadastrar Cliente</p>
+                            <p>Cadastrar Profissional</p>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-2 text-center">
-                    <a href="cadastroFornecedor.php">
+                    <a href="removerProfissional.php">
                         <div id="opt">
                             <img src="assets/images/do-utilizador.png" class="img-fluid">
-                            <p>Cadastrar Fornecedor</p>
+                            <p>Remover Profissional</p>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-2 text-center">
-                    <a href="consultarClientes.php">
+                    <a href="consultarProfissional.php">
                         <div id="opt">
                             <img src="assets/images/do-utilizador.png" class="img-fluid">
-                            <p>Consultar Clientes</p>
+                            <p>Consultar Profissional</p>
                         </div>
                     </a>
                 </div>
             </div>
             <div class="row justify-content-md-center">
                 <div class="col-lg-2 text-center">
-                    <a href="consultarCompras.php">
+                    <a href="alterarProfissional.php">
                         <div id="opt">
                             <img src="assets/images/do-utilizador.png" class="img-fluid">
-                            <p>Consultar Compras</p>
+                            <p>Alterar Profissional</p>
                         </div>
                     </a>
                 </div>
