@@ -16,12 +16,6 @@
                 <li class="nav-item">
                     <a class="nav-link" href="index.php">Página Principal</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="cadastro_profissional.php">Cadastrar Profissional</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="remover_profissional.php">Remover Profissional</a>
-                </li>
             </ul>
         </div>
     </nav>

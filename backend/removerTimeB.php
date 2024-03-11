@@ -32,7 +32,7 @@ if (isset($_POST['id'])) {
         echo "Erro na preparação da declaração: " . $link->error;
     }
 } else {
-    echo "IDnão fornecido.";
+    echo "ID não fornecido.";
 }
 
 // Fechando a conexão com o banco de dados
