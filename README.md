@@ -1,7 +1,5 @@
 A aplicação de Cadastros de Projetos foi desenvolvida utilizando PHP como linguagem principal para o backend, HTML, CSS e Bootstrap para a construção da interface do usuário, e MySQL como banco de dados para armazenamento dos dados. O framework SCRUM foi adotado como metodologia de desenvolvimento, garantindo uma abordagem ágil e iterativa ao longo do projeto.
 
-Para o versionamento do código, foi utilizado o GitFlow, permitindo um controle eficiente das versões e das colaborações entre os membros da equipe. A implantação da aplicação foi facilitada pelo uso de containers Docker e Docker Compose, garantindo a portabilidade e a consistência do ambiente de desenvolvimento e produção.
-
 A infraestrutura da aplicação está hospedada no InfinityFree, um serviço de cloud que oferece recursos para hospedagem web gratuita. Isso proporciona uma solução econômica para a operação da aplicação em ambiente "cloud", conforme especificado nos requisitos não funcionais (RNF004).
 
 A arquitetura da aplicação segue uma abordagem de cliente-servidor, onde o frontend, desenvolvido em HTML, CSS e Bootstrap, interage com o backend implementado em PHP. O banco de dados MySQL é utilizado para armazenar os dados dos profissionais, times e projetos, conforme definido nos requisitos funcionais.
